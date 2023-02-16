@@ -24,7 +24,7 @@ Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Crew#0057 ile iletişime geç
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Raxe botun geliştricisi olan Sea Vortrex#0001 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Raxe botun geliştricisi olan Crew#0057 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 

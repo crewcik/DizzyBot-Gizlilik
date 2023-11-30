@@ -1,6 +1,6 @@
-Raxe Bot Gizlilik Politikası
+DizzyBot Gizlilik Politikası
 
-Raxe'yi kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
+DizzyBot'u kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
 
 Hangi veriler saklanır?
 
@@ -20,11 +20,11 @@ Hayır. Kimseye verilerinizi paylaşmamaktayız.
 
 Geliştiriciyle nasıl iletişime geçebilirim?
 
-Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Crew#0057 ile iletişime geçebilirsiniz.
+Destek sunucusundan(https://discord.gg/hu6XpsVxnP) crew.dev ile iletişime geçebilirsiniz.
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Raxe botun geliştricisi olan Crew#0057 ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(https://discord.gg/hu6XpsVxnP) Raxe botun geliştricisi olan crew.dev ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
